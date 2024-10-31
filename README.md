@@ -30,7 +30,7 @@ Getting started with Markdown
 
 ----------------------------------
 
-# Titles 
+# Titles
 
 ### Title 1
 ### Title 2
